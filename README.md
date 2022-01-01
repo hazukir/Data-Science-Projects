@@ -1,2 +1,2 @@
 # Data-Science-Projects
-This repo represents some analysis/science projects that I will be performing.
+This repo represents some data analysis/science projects that I will be performing.
