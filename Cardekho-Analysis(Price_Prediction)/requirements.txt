@@ -1,0 +1,89 @@
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+async-generator==1.10
+attrs==21.2.0
+backcall==0.2.0
+bleach==4.1.0
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1636523946399/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama==0.4.4
+conda-package-handling @ file:///C:/ci/conda-package-handling_1618262410900/work
+cryptography @ file:///C:/ci/cryptography_1635366712888/work
+cycler==0.11.0
+debugpy==1.5.1
+decorator==5.1.0
+defusedxml==0.7.1
+entrypoints==0.3
+fonttools==4.28.3
+h11==0.12.0
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+instagram-scraper==1.10.3
+ipykernel==6.6.0
+ipython==7.30.1
+ipython-genutils==0.2.0
+jedi==0.18.1
+Jinja2==3.0.3
+jsonschema==4.2.1
+jupyter-client==7.1.0
+jupyter-core==4.9.1
+jupyterlab-pygments==0.1.2
+jupyterthemes==0.20.0
+kiwisolver==1.3.2
+lesscpy==0.15.0
+MarkupSafe==2.0.1
+matplotlib==3.5.1
+matplotlib-inline==0.1.3
+menuinst==1.4.16
+mistune==0.8.4
+nbclient==0.5.9
+nbconvert==6.3.0
+nbformat==5.1.3
+nest-asyncio==1.5.4
+notebook==6.4.6
+numpy==1.21.4
+outcome==1.1.0
+packaging==21.3
+pandas==1.3.5
+pandocfilters==1.5.0
+parso==0.8.3
+pickleshare==0.7.5
+Pillow==8.4.0
+ply==3.11
+prometheus-client==0.12.0
+prompt-toolkit==3.0.24
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.10.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyparsing==3.0.6
+pyrsistent==0.18.0
+PySocks @ file:///C:/ci/pysocks_1605307512533/work
+python-dateutil==2.8.2
+pytz==2021.3
+pywin32==228
+pywinpty==1.1.6
+pyzmq==22.3.0
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1616016898638/work
+scipy==1.7.3
+seaborn==0.11.2
+selenium==4.1.0
+Send2Trash==1.8.0
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sniffio==1.2.0
+sortedcontainers==2.4.0
+terminado==0.12.1
+testpath==0.5.0
+tornado==6.1
+tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
+traitlets==5.1.1
+trio==0.19.0
+trio-websocket==0.9.2
+urllib3==1.26.7
+wcwidth==0.2.5
+webencodings==0.5.1
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wincertstore==0.2
+wsproto==1.0.0
