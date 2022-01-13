@@ -1,0 +1,18 @@
+# Cancer Mortality Rate Prediction - US Counties
+
+## Regression Problem
+
+The objectives are:
+    * Predict the cancer mortality rates for US counties.
+    * Build a multivariate Ordinary Least Squares regression model to predict "TARGET_deathRate"
+
+
+## This analysis will follow the CRISP-DM methodology
+    * Business Understading.
+    * Data Understanding.
+    * Data Preparation (EDA)
+    * Modeling (OLS regression model creation)
+    * Evaluation
+        * Fine-tuning(if necessary)
+    * Deployment (It's not part of the scope of this project)
+
